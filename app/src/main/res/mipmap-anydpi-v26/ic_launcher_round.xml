@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <background>
+        <color android:color="#0A0E1A" />
+    </background>
+    <foreground>
+        <vector
+            android:width="108dp"
+            android:height="108dp"
+            android:viewportWidth="108"
+            android:viewportHeight="108">
+            <!-- Glowing moon -->
+            <path
+                android:fillColor="#FFE8A3"
+                android:pathData="M54,20 A22,22 0 1,1 53.9,20" />
+            <!-- Outer duel ring -->
+            <path
+                android:strokeColor="#00E5FF"
+                android:strokeWidth="4"
+                android:pathData="M54,10 A44,44 0 0,0 54,98" />
+            <path
+                android:strokeColor="#FF2A55"
+                android:strokeWidth="4"
+                android:pathData="M54,10 A44,44 0 0,1 54,98" />
+            <!-- Blue archer left silhouette -->
+            <path
+                android:fillColor="#00E5FF"
+                android:pathData="M38,42 A6,6 0 1,1 37.9,42 M38,48 L38,65 M38,55 L28,75 M38,55 L48,75 M38,52 L48,46 M38,52 L26,50" />
+            <!-- Red archer right silhouette -->
+            <path
+                android:fillColor="#FF2A55"
+                android:pathData="M70,42 A6,6 0 1,1 69.9,42 M70,48 L70,65 M70,55 L60,75 M70,55 L80,75 M70,52 L60,46 M70,52 L82,50" />
+            <!-- Crossing arrows -->
+            <path
+                android:strokeColor="#FFFFFF"
+                android:strokeWidth="3"
+                android:strokeLineCap="round"
+                android:pathData="M30,78 L78,30 M30,30 L78,78" />
+        </vector>
+    </foreground>
+</adaptive-icon>

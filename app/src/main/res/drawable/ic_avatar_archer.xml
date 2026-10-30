@@ -1,0 +1,32 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <!-- Circle badge background -->
+    <path
+        android:fillColor="#091024"
+        android:pathData="M24,2 A22,22 0 1,1 23.99,2" />
+    <path
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="2"
+        android:pathData="M24,2 A22,22 0 1,1 23.99,2" />
+    <!-- Glowing moon inside -->
+    <path
+        android:fillColor="#FFEAA7"
+        android:pathData="M24,10 A10,10 0 1,1 23.99,10" />
+    <!-- Archer Stickman Silhouette -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M24,16 A4,4 0 1,1 23.99,16" />
+    <path
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M24,20 L24,32 M24,23 L18,28 M24,23 L30,28 M24,32 L19,42 M24,32 L29,42" />
+    <!-- Glowing Bow -->
+    <path
+        android:strokeColor="#FFEE55"
+        android:strokeWidth="2"
+        android:pathData="M30,22 C34,26 34,34 30,38" />
+</vector>

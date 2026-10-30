@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Theme Colors -->
+    <color name="bg_dark">#0A0E1A</color>
+    <color name="bg_dark_gradient_top">#090D18</color>
+    <color name="bg_dark_gradient_bottom">#121829</color>
+    <color name="card_bg">#141C33</color>
+    <color name="card_stroke">#22325E</color>
+    <color name="card_stroke_glow">#00D4FF</color>
+
+    <!-- Neon Glow Accents -->
+    <color name="neon_blue">#00E5FF</color>
+    <color name="neon_blue_glow">#4000E5FF</color>
+    <color name="neon_red">#FF2A55</color>
+    <color name="neon_red_glow">#40FF2A55</color>
+    <color name="neon_gold">#FFB800</color>
+    <color name="neon_gold_glow">#40FFB800</color>
+    <color name="neon_purple">#B829FF</color>
+    <color name="neon_green">#00FF88</color>
+
+    <!-- UI Buttons & States -->
+    <color name="btn_play_yellow">#FFAA00</color>
+    <color name="btn_play_yellow_dark">#CC7700</color>
+    <color name="btn_blue">#0077FF</color>
+    <color name="btn_blue_dark">#004DAA</color>
+    <color name="btn_green">#00CC66</color>
+    <color name="btn_green_dark">#008844</color>
+    <color name="btn_red">#FF3344</color>
+    <color name="btn_red_dark">#B31B2A</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#8C9EC0</color>
+    <color name="text_gold">#FFE066</color>
+    <color name="text_cyan">#70F3FF</color>
+
+    <!-- Currencies -->
+    <color name="coin_color">#FFCC00</color>
+    <color name="gem_color">#00E5FF</color>
+    <color name="hp_green">#00FF66</color>
+    <color name="hp_red">#FF2233</color>
+    <color name="hp_boss">#FF0055</color>
+
+    <color name="black_overlay">#80000000</color>
+    <color name="transparent">#00000000</color>
+</resources>

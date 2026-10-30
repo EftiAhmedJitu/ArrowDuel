@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Arrow Duel</string>
+    <string name="play">PLAY</string>
+    <string name="multiplayer">MULTIPLAYER</string>
+    <string name="shop">SHOP</string>
+    <string name="customize">CUSTOMIZE</string>
+    <string name="settings">Settings</string>
+    <string name="leaderboard">Leaderboard</string>
+    <string name="friends">Friends</string>
+    <string name="missions">Missions</string>
+    <string name="daily_rewards">Daily Rewards</string>
+    <string name="more_games">More Games</string>
+
+    <!-- Modes -->
+    <string name="select_mode">SELECT MODE</string>
+    <string name="story_mode">STORY MODE</string>
+    <string name="story_desc">100 LEVELS</string>
+    <string name="survival_mode">SURVIVAL MODE</string>
+    <string name="survival_desc">ENDLESS WAVES</string>
+    <string name="boss_fight">BOSS FIGHT</string>
+    <string name="boss_desc">EPIC BATTLES</string>
+    <string name="practice_mode">PRACTICE MODE</string>
+    <string name="practice_desc">IMPROVE YOUR SKILLS</string>
+    <string name="tournament">TOURNAMENT</string>
+    <string name="tournament_desc">COMING SOON</string>
+
+    <!-- Shop & Customize -->
+    <string name="bows_arrows">BOWS &amp; ARROWS</string>
+    <string name="character">CHARACTER</string>
+    <string name="equipped">EQUIPPED</string>
+    <string name="equip">EQUIP</string>
+    <string name="using">USING</string>
+    <string name="buy">BUY</string>
+    <string name="locked">LOCKED</string>
+
+    <!-- Results -->
+    <string name="victory">VICTORY!</string>
+    <string name="defeat">DEFEAT!</string>
+    <string name="paused">PAUSED</string>
+    <string name="resume">RESUME</string>
+    <string name="restart">RESTART</string>
+    <string name="next_level">NEXT LEVEL</string>
+    <string name="retry">RETRY</string>
+    <string name="main_menu">MAIN MENU</string>
+    <string name="leave_match">LEAVE MATCH</string>
+</resources>
